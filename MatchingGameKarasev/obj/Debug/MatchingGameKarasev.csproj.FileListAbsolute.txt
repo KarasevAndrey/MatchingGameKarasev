@@ -1,0 +1,10 @@
+C:\Users\29388173\Desktop\MatchingGameKarasev\bin\Debug\MatchingGameKarasev.exe.config
+C:\Users\29388173\Desktop\MatchingGameKarasev\bin\Debug\MatchingGameKarasev.exe
+C:\Users\29388173\Desktop\MatchingGameKarasev\bin\Debug\MatchingGameKarasev.pdb
+C:\Users\29388173\Desktop\MatchingGameKarasev\obj\Debug\MatchingGameKarasev.csproj.AssemblyReference.cache
+C:\Users\29388173\Desktop\MatchingGameKarasev\obj\Debug\MatchingGameKarasev.Form1.resources
+C:\Users\29388173\Desktop\MatchingGameKarasev\obj\Debug\MatchingGameKarasev.Properties.Resources.resources
+C:\Users\29388173\Desktop\MatchingGameKarasev\obj\Debug\MatchingGameKarasev.csproj.GenerateResource.cache
+C:\Users\29388173\Desktop\MatchingGameKarasev\obj\Debug\MatchingGameKarasev.csproj.CoreCompileInputs.cache
+C:\Users\29388173\Desktop\MatchingGameKarasev\obj\Debug\MatchingGameKarasev.exe
+C:\Users\29388173\Desktop\MatchingGameKarasev\obj\Debug\MatchingGameKarasev.pdb
